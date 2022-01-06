@@ -1,0 +1,17 @@
+section{
+    display: flex;
+}
+.color{
+    color: coral;
+}
+.twoin1{
+    width: 50%;
+}
+.button{
+    background-color: rgb(236, 78, 15);
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
