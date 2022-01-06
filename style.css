@@ -5,7 +5,14 @@ section{
     color: coral;
 }
 .twoin1{
-    width: 50%;
+    width: 30%;
+    padding-left: 10%;
+    font-size: x-large;
+    
+}
+.twoin1 img{
+    width: 100%;
+
 }
 .button{
     background-color: rgb(236, 78, 15);
@@ -14,4 +21,29 @@ section{
     text-decoration: none;
     color: white;
     font-weight: 700;
+}
+.second-heading{
+   padding-left: 30%;
+   font-size: x-large;
+}
+.radius2{
+    border-radius: 15px;
+    padding: 10px;
+height: 320px;
+width: 300px;
+}
+.radius2 img{
+    width: 30%;
+}
+#mission{
+    background-color: rgb(165, 252, 243);
+    margin: 10px;
+}
+#vision{
+    background-color: rgb(248, 161, 248) ;
+    margin: 10px;
+}
+#goals{
+    background-color: rgb(248, 217, 195);
+    margin: 10px;
 }
