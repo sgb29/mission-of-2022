@@ -20,6 +20,43 @@ h1{
     padding-left: 10%;
 }
 
+.border-left{
+    border-left: 5px solid red;
+}
+
+.button{
+    background-color: rgb(236, 78, 15);
+    padding: 5px 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+
+.missions-heading{
+    text-align: center;
+    }
+    .missions-radius2{
+        border-radius: 15px;
+        padding: 10px;
+    height: 340px;
+    width: 300px;
+    margin: 20px;
+    width: 33%;
+    }
+    .missions-radius2 img{
+        width: 30%;
+    }
+    #mission{
+        background-color: rgb(165, 252, 243);
+    }
+    #vision{
+        background-color: rgb(248, 161, 248) ;
+    }
+    #goals{
+        background-color: rgb(248, 217, 195);
+    }
+
 .develop-limit{
     width: 56%;
     font-size: x-large;
@@ -42,40 +79,7 @@ h1{
     padding-left: 160px;
 }
 
-.button{
-    background-color: rgb(236, 78, 15);
-    padding: 5px 10px;
-    border-radius: 10px;
-    text-decoration: none;
-    color: white;
-    font-weight: 700;
-}
-.border-left{
-    border-left: 5px solid red;
-}
-.missions-heading{
-text-align: center;
-}
-.radius2{
-    border-radius: 15px;
-    padding: 10px;
-height: 340px;
-width: 300px;
-margin: 20px;
-width: 33%;
-}
-.radius2 img{
-    width: 30%;
-}
-#mission{
-    background-color: rgb(165, 252, 243);
-}
-#vision{
-    background-color: rgb(248, 161, 248) ;
-}
-#goals{
-    background-color: rgb(248, 217, 195);
-}
+
 .contact-us{
 text-align: center;
 border-top: solid darkgrey;
@@ -93,4 +97,12 @@ border-top: solid darkgrey;
 .form-fill{
     width: 50%;
     padding: 10%;
+}
+.footer{
+    color:  white;
+    text-align: center;
+}
+footer{
+    background-color: black;
+    padding: 1%;
 }
